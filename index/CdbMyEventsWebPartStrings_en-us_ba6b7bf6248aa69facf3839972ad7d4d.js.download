@@ -1,0 +1,11 @@
+define([], function() {
+  return {
+        "PropertyPaneDescription": "Display the signed in user’s own Microsoft 365 calendar directly on a SharePoint page. Each user automatically sees their personal calendar and upcoming events.",
+    "BasicGroupName": "Settings",
+
+    "AboutGroupName": "About this web part",
+    "AboutDescription": "My Calendar Web Part by Cloud Design Box Ltd",
+    "WebsiteLinkText": "Visit the Cloud Design Box website",
+    "DescriptionFieldLabel": "Description Field"
+  }
+});

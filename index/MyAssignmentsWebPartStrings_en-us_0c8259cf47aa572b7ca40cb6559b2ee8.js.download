@@ -1,0 +1,7 @@
+define([], function() {
+  return {
+    "PropertyPaneDescription": "Web part by Cloud Design Box Ltd - https://www.clouddesignbox.co.uk",
+    "BasicGroupName": "Settings",
+    "DescriptionFieldLabel": "Description Field"
+  }
+});
